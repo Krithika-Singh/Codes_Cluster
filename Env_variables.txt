@@ -1,0 +1,5 @@
+Check all env variables => env
+set an env variable => export var_name = var_value
+unset an env variable => unset var_name
+access env variable => echo var_name
+access env variable value => echo $var_name
